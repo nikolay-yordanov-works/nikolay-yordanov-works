@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikolay-yordanov-works
-- 👀 I’m interested in Web Apps Development, Stocks, and Trading Bots
-- 🌱 I’m currently learning Python, AWS, and PineScript.
+- 👀 I’m interested in Web Apps Development, Stocks, App Development, AI and Trading Bots.
+- 🌱 I’m currently learning Python, AWS, Dart, Flutter and PineScript.
 - 💞️ I’m looking to collaborate on any interesting project which I can contribute to.
 - 📫 How to reach me -> https://www.linkedin.com/in/nikolay-yordanov-92015a1a7/
 
